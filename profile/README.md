@@ -50,7 +50,7 @@ KotlinRL enables JVM developers to:
 
 ## KotlinRL complements existing JVM ML projects:
 
-- ✅ KotlinDL provides neural network training and tensor operations for supervised learning.
+- ✅ DJL provides neural network training and tensor operations for supervised learning.
 - ✅ KotlinRL focuses on the reinforcement learning loop: agents, environments, rewards, policies, experience buffers, and policy optimization.
 
 ---
